@@ -67,8 +67,6 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-### Prerequisites
-
 In order to run this project you need:
 1. Have VScode instale, it's a code editor.
 2. Have downloaded Git.
@@ -143,8 +141,7 @@ To deploy the project locally, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Developing the UI]**
-- [ ] **[Deploying the site]**
+- [ ] **[Adding style]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
